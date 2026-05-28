@@ -1,0 +1,7 @@
+streamlit
+pypdf
+python-dotenv
+langchain-openai
+langchain-text-splitters
+numpy<2
+scikit-learn
