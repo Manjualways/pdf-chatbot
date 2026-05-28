@@ -45,7 +45,7 @@ This project uses Retrieval-Augmented Generation (RAG) architecture.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-pdf-chatbot.git
+git clone https://github.com/YOUR_USERNAME/pdf-chatbot.git
 cd ai-pdf-chatbot
 ```
 
